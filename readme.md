@@ -1,4 +1,3 @@
-Este repo es para identificar a las mujeres poderosas de la programacion
+Grace Murray Hopper
 
-ADA LOVELANCE
-Nacida el 10 de Diciembre en 1815 en Londres fue una celebre matematica y escritora por su trabajo a cerca de la calculadora de uso general; en sus notas se encuentra lo que hoy se reconoce como primer algoritmo procesado por una maquina, por lo que se le concidera la preimer programadora de ordenadores.
+Nacida el 9 de Diciembre de 1906 en el condado de arlington new york, fue una cientifica de la computacion y militar estadounidense; pionera en el mundo de la ciencias de la computacion y la primer progrmadora que y la primer programadora que utilizo el Mark 1.
