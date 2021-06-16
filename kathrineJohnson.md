@@ -1,3 +1,3 @@
 # Katherine Johnson
-
-aqui agregare una descripcion
+Nacida en Virginia en 26 de Agosto de 1918, Fisica,cientifica espacial y matematica,que contribuyo a la aeroautica de Estados Unidos y sus programas especiales 
+Sus cálculos de la mecánica orbital como empleada de la NASA fueron fundamentales para el éxito del primer y posteriores vuelos espaciales tripulados en su país. Durante su carrera de 35 años en la NASA y su predecesor, el Comité Asesor Nacional para la Aeronáutica (NACA por sus siglas en inglés), se ganó la reputación de dominar los cálculos manuales complejos y contribuyó al uso pionero de computadoras para realizar tareas.
